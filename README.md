@@ -35,12 +35,6 @@
 - **Tools**: Visual Studio Code, Jupyter Notebook, Android Studio
 - **Soft Skills**: Team Collaboration, Leadership, Multilingual Communication
 
----
-
-## 📈 Stats
-<p align="center">
-  <img src="http://mazandi.herokuapp.com/api?handle=rnasterofmysea&theme=warm" alt="Baekjoon solved.ac profile" />
-</p>
 
 ---
 
@@ -64,5 +58,5 @@
 ---
 
 <div align="center">
-  🌟 <i>"Learning never stops, and neither does innovation."</i> 🌟
+  🌟 <i>"有志者事竟成"</i> 🌟
 </div>
