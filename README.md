@@ -19,16 +19,6 @@
 
 ---
 
-## 💻 About Me
-- 🔍 **Specialized in**: AI, IoT, and Image Detection
-- 📊 **Projects**:
-  - **Cylindrical Pill Bottle Recognition with YOLOv8**
-  - **Location-Based Smart Door Lock System**
-  - **Drone Traffic Management Test System**
-- 🏆 **Awards**: Gold Award in Standard Field Training Portfolio Competition
-
----
-
 ## 📂 Key Skills
 - **Programming Languages**: Python, C, React, Java, SQL
 - **Technologies**: YOLO (v3 to v8), Raspberry Pi, TensorFlow
@@ -41,13 +31,14 @@
 ## 🌟 Featured Work
 ### **Recent Publications**
 - **"A Research on Cylindrical Pill Bottle Recognition with YOLOv8 and ORB"** - Published in Journal of Korea Society of Computer and Information, 2024
+- **“Development of Drone Traffic Management Test System“**- Korean Society of Computer Information Conference, 2022.
 
 ### **Highlighted Projects**
 1. **AI-IoT Video Object Detection API Development**
    - Built using Raspberry Pi and YOLO models
    - Implemented real-time object detection for accident prevention
-2. **Travel Planner Application**
-   - Utilized Google Maps API for user-friendly trip organization
+2. **Job-ant**
+   - Developing React web-app for scheduling and management part-time job process 
 
 ---
 
