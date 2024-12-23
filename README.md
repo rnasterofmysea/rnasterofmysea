@@ -15,6 +15,10 @@
   <a href="https://rnasterofmysea.tistory.com/">📖 Tistory Blog</a> |
   <a href="https://www.linkedin.com/in/rnasterofmysea/">🔗 LinkedIn</a> |
   <a href="https://lumbar-pickle-74c.notion.site/DAEHYUN-KIM-1f7cb15f72434971a802674097421339">📋 Notion Portfolio</a>
+
+  <div align="center">
+  🌟 <i>"有志者事竟成"</i> 🌟
+</div>
 </div>
 
 ---
@@ -48,6 +52,4 @@
 
 ---
 
-<div align="center">
-  🌟 <i>"有志者事竟成"</i> 🌟
-</div>
+
