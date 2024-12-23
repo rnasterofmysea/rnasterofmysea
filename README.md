@@ -11,7 +11,7 @@
 
   <p>🌐 <b>Languages:</b> Korean (Native), English, Chinese (HSK 6)</p>
 
-  <a href="mailto:rnasterofmysea@gmail.com">📧 Email Me</a> |
+  email: rnasterofmysea@gmail.com
   <a href="https://rnasterofmysea.tistory.com/">📖 Tistory Blog</a> |
   <a href="https://www.linkedin.com/in/rnasterofmysea/">🔗 LinkedIn</a> |
   <a href="https://lumbar-pickle-74c.notion.site/DAEHYUN-KIM-1f7cb15f72434971a802674097421339">📋 Notion Portfolio</a>
