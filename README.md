@@ -7,7 +7,7 @@
   **🌟 Passionate about Technology and Learning**
 
   <p>🎓 <b>Bachelor in Computer Science</b> | <i>Inha Technical College</i></p>
-  <p>📍 Currently: Shenzhen University (Language Program)</p>
+  <p>Shenzhen University (Language Program)</p>
 
   <p>🌐 <b>Languages:</b> Korean (Native), English, Chinese (HSK 6)</p>
 
