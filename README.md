@@ -9,7 +9,7 @@
   <p>🎓 <b>Bachelor in Computer Science</b> | <i>Inha Technical College</i></p>
   <p>Shenzhen University (Language Program)</p>
 
-  <p>🌐 <b>Languages:</b> Korean (Native), English, Chinese (HSK 6)</p>
+  <p>🌐 <b>Languages:</b> Korean (Native), English(IELTS Academic 7.0), Chinese (HSK 6)</p>
 
   email: rnasterofmysea@gmail.com
   <a href="https://rnasterofmysea.tistory.com/">📖 Tistory Blog</a> |
