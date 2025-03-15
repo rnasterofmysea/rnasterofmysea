@@ -25,7 +25,7 @@
 
 ## 📂 Key Skills
 - **Programming Languages**: Python, C, React, Java, SQL
-- **Technologies**: YOLO (v3 to v8), Raspberry Pi, TensorFlow
+- **Technologies**: YOLO (v3 to v8), Raspberry Pi, Pytorch
 - **Tools**: Visual Studio Code, Jupyter Notebook, Android Studio
 - **Soft Skills**: Team Collaboration, Leadership, Multilingual Communication
 
