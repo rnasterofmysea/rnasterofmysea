@@ -1,7 +1,7 @@
 <div align="center">
   
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rnasterofmysea"/>
-
+  <div align = "left">
   # 👋 Hello, I'm DaeHyun Kim [金大铉] 👋
 
   **🌟 Passionate about Technology and Learning**
@@ -15,7 +15,7 @@
   <a href="https://rnasterofmysea.tistory.com/">📖 Tistory Blog</a> |
   <a href="https://www.linkedin.com/in/rnasterofmysea/">🔗 LinkedIn</a> |
   <a href="https://lumbar-pickle-74c.notion.site/DAEHYUN-KIM-1f7cb15f72434971a802674097421339">📋 Notion Portfolio</a>
-
+  </div>
   <div align="center">
   🌟 <i>"有志者事竟成"</i> 🌟
 </div>
