@@ -1,8 +1,7 @@
 <div align="center">
-  
+   # 👋 Hello, I'm DaeHyun Kim [金大铉] 👋
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rnasterofmysea"/>
   <div align = "left">
-  # 👋 Hello, I'm DaeHyun Kim [金大铉] 👋
 
   **🌟 Passionate about Technology and Learning**
 
